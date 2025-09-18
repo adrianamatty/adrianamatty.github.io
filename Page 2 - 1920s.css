@@ -1,0 +1,57 @@
+body {
+     background: radial-gradient(white, grey, white)
+}
+h1 {
+    text-align: center;
+  font-family: "Plaster", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h2{
+    text-align: center;
+    font-family: "Plaster", system-ui;
+  font-weight: 400;
+  font-style: italic;
+}
+#img1{
+    margin-top: 5%;
+    margin-left: 35%
+}
+#img2{
+    margin-left: 43%;
+    margin-top: 5%;
+    margin-bottom: 30%;
+}
+h5{
+    font-family: "Plaster", system-ui;
+  font-weight: 50;
+  font-style: normal;
+    margin-top: 5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    text-align: justify;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+h3{
+    font-family: "Plaster", system-ui;
+  font-weight: 100;
+  font-style: normal;
+    margin-top: 30%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    text-align:center;
+}
+h3:hover{
+    background-color: black;
+        color: lightgray;
+        transform: scale(1.05);
+        transition: all 0.3s ease-in-out;
+}
+img:hover{
+    background-color: black;
+        color: lightgray;
+        transform: scale(1.25);
+        transition: all 0.3s ease-in-out;
+}

@@ -1,0 +1,64 @@
+body {
+background: linear-gradient(red, black, white);
+}
+
+#img1 {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    border: 5px;
+    border-style: outset;
+    color: white;
+    margin-left: 32%
+    
+}
+h1 {
+  font-family: "UnifrakturCook", cursive;
+  font-weight: 700;
+  font-style: normal;
+  text-align: center;
+  color: white;
+}
+h2{
+    font-family: "UnifrakturCook", cursive;
+  font-weight: 700;
+  font-style: normal;
+  text-align: center;
+  color: white;
+}
+h5{
+     font-family: "UnifrakturCook", cursive;
+  font-weight: 50;
+  font-style: normal;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    color: white;
+}
+h3{
+     font-family: "UnifrakturCook", cursive;
+  font-weight: 100;
+  font-style: normal;
+    margin-top: 30%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    text-align:center;
+}
+h3:hover{
+    background-color: black;
+        color: lightgray;
+        transform: scale(1.05);
+        transition: all 0.3s ease-in-out;
+}
+img:hover{
+    background-color: black;
+        color: lightgray;
+        transform: scale(1.25);
+        transition: all 0.3s ease-in-out;
+}
+#img2{
+    margin-left: 38%;
+    margin-top: 5%;
+    margin-bottom: 30%;
+}
